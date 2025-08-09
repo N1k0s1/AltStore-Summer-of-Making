@@ -2,7 +2,7 @@
     "name": "Summer of Making - Hack Club",
     "subtitle": "A source for apps created through Hack Club's Summer of Making program.",
     "description": "This is a source for apps created through Hack Club's Summer of Making program (https://summer.hackclub.com/)",
-    "iconURL": "https://github.com/hackclub/summer-of-making/blob/main/public/favicon.png",
+    "iconURL": "https://github.com/hackclub/summer-of-making/blob/main/public/favicon.png?raw=true",
     "website": "https://summer.hackclub.com/",
     "tintColor": "#f4dabb",
     "featuredApps": [
